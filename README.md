@@ -54,13 +54,13 @@ guideline nội bộ của VinFast.
 
 Bạn chưa cần cài Python, VS Code, Antigravity hoặc CVAT cho bài này. Trước giờ lab, kiểm tra đủ các mục:
 
-- [ ] Đăng nhập được tài khoản GitHub và tài khoản Google dùng cho Colab/Drive.
-- [ ] Dùng Chrome hoặc Edge phiên bản mới và có kết nối Internet ổn định.
-- [ ] Biết mã khóa (`KHOA`, ví dụ `K4`), họ tên không dấu và MSSV để đặt tên repository bài làm.
-- [ ] Mở được repository do GV/Lab Coach cung cấp và nhìn thấy nút **Use this template**.
-- [ ] Không sử dụng ảnh cá nhân hoặc dữ liệu nội bộ; notebook đã có sẵn ảnh công khai cho bài lab.
-- [ ] Biết kênh hỏi hỗ trợ và kênh nộp link repository của lớp.
-- [ ] Biết tên repository bắt buộc theo mẫu `<KHOA>-DAY01-HoVaTen-MSSV`; không thêm email, số điện thoại
+- [x] Đăng nhập được tài khoản GitHub và tài khoản Google dùng cho Colab/Drive.
+- [x] Dùng Chrome hoặc Edge phiên bản mới và có kết nối Internet ổn định.
+- [x] Biết mã khóa (`KHOA`, ví dụ `K4`), họ tên không dấu và MSSV để đặt tên repository bài làm.
+- [x] Mở được repository do GV/Lab Coach cung cấp và nhìn thấy nút **Use this template**.
+- [x] Không sử dụng ảnh cá nhân hoặc dữ liệu nội bộ; notebook đã có sẵn ảnh công khai cho bài lab.
+- [x] Biết kênh hỏi hỗ trợ và kênh nộp link repository của lớp.
+- [x] Biết tên repository bắt buộc theo mẫu `<KHOA>-DAY01-HoVaTen-MSSV`; không thêm email, số điện thoại
   hoặc dữ liệu cá nhân khác.
 
 Nếu thiếu tài khoản hoặc không mở được repository, báo Lab Coach trước khi chạy bài.

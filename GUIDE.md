@@ -9,12 +9,12 @@ Git/terminal chỉ là lựa chọn thêm cho học viên đã quen.
 
 Preflight:
 
-- [ ] Đã mở notebook từ repository nguồn bằng Colab.
-- [ ] Biết cách mở và sửa `REPORT.md` mà notebook tạo sẵn trong panel Files của Colab.
-- [ ] Không đưa ảnh hoặc dữ liệu nhạy cảm vào Colab; tên repository chỉ chứa họ tên và MSSV bắt buộc.
-- [ ] Có quyền lưu tệp vào Google Drive dùng để nộp bài.
-- [ ] Đã tạo repository bài làm từ template và biết thư mục nộp bài là `report/`.
-- [ ] Biết cách giải nén ZIP bằng File Explorer (Windows), Finder (macOS) hoặc Archive Manager (Ubuntu).
+- [x] Đã mở notebook từ repository nguồn bằng Colab.
+- [x] Biết cách mở và sửa `REPORT.md` mà notebook tạo sẵn trong panel Files của Colab.
+- [x] Không đưa ảnh hoặc dữ liệu nhạy cảm vào Colab; tên repository chỉ chứa họ tên và MSSV bắt buộc.
+- [x] Có quyền lưu tệp vào Google Drive dùng để nộp bài.
+- [x] Đã tạo repository bài làm từ template và biết thư mục nộp bài là `report/`.
+- [x] Biết cách giải nén ZIP bằng File Explorer (Windows), Finder (macOS) hoặc Archive Manager (Ubuntu).
 
 ## Quy trình 60 phút
 
@@ -109,12 +109,12 @@ quy tắc bảo vệ dữ liệu.
 
 ## Tự kiểm tra
 
-- [ ] Có evidence từ cả ba JSON và đúng `sample_id`.
-- [ ] Có đúng ba PNG trong `day1_lab_outputs/visuals/`.
-- [ ] Phân biệt `prediction`, `ground truth`, `class`, `model score`, `box`, `polygon` và `instance`.
-- [ ] Không coi confidence/model score là điểm chất lượng nhãn.
-- [ ] Nêu ít nhất một lỗi hoặc điểm mơ hồ thực sự quan sát được.
-- [ ] Ghi lại mọi thay đổi về code, checkpoint, threshold và môi trường.
-- [ ] Có `IMAGE_ATTRIBUTION.md` trong output; họ tên/MSSV chỉ nằm ở tên repository, không nằm trong output.
-- [ ] ZIP trong `MyDrive/AI20K-Day1/` mở ra thấy trực tiếp `REPORT.md` và `day1_lab_outputs/`.
-- [ ] Hai mục đó nằm trong `report/`; đã commit, push và nộp link repository trên VLearn.
+- [x] Có evidence từ cả ba JSON và đúng `sample_id`.
+- [x] Có đúng ba PNG trong `day1_lab_outputs/visuals/`.
+- [x] Phân biệt `prediction`, `ground truth`, `class`, `model score`, `box`, `polygon` và `instance`.
+- [x] Không coi confidence/model score là điểm chất lượng nhãn.
+- [x] Nêu ít nhất một lỗi hoặc điểm mơ hồ thực sự quan sát được.
+- [x] Ghi lại mọi thay đổi về code, checkpoint, threshold và môi trường.
+- [x] Có `IMAGE_ATTRIBUTION.md` trong output; họ tên/MSSV chỉ nằm ở tên repository, không nằm trong output.
+- [x] ZIP trong `MyDrive/AI20K-Day1/` mở ra thấy trực tiếp `REPORT.md` và `day1_lab_outputs/`.
+- [x] Hai mục đó nằm trong `report/`; đã commit, push và nộp link repository trên VLearn.
